@@ -12,7 +12,7 @@ Installing files
 ----------------------------------------------------------------------------------------------------------
 Command to record youtube video:
 1. Open TERMINAL program
-2. Type: <code><strong> youtube-dl [youtube URL] </strong></code>
+2. Type: <code><strong> youtube-dl "[youtube URL]" </strong></code>
 3. if you got disconnected or had any error/interruption, resume recording by typing: <code><strong> youtube-dl [youtube URL] -ciw <youtube link> </strong></code>
 
 ## More Informations  
