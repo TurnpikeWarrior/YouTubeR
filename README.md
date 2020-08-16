@@ -7,7 +7,7 @@ Installing files
 
 3. Install Youtube-Dl: <strong> brew install youtube-dl </strong>
 
-4. *optional* Install ffmpeg - <strong> https://evermeet.cx/ffmpeg/ffmpeg-4.1.dmg </strong>
+4. *optional* - Install ffmpeg - <strong> https://evermeet.cx/ffmpeg/ffmpeg-4.1.dmg </strong>
 
 ----------------------------------------------------------------------------------------------------------
 Command to record youtube video:
