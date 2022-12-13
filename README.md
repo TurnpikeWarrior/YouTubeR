@@ -15,7 +15,7 @@ Command to record youtube video:
 2. Type: <code><strong> youtube-dl "[youtube URL]" </strong></code>
 3. if you got disconnected or had any error/interruption, resume recording by typing: <code><strong> youtube-dl [youtube URL] -ciw <youtube link> </strong></code>
 
-youtube-dl "[youtube URL]" -F 
+youtube-dl "[youtube URL]" -F  
 youtube-dl "[youtube URL]" -f [format]
 
 ## More Informations  
